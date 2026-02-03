@@ -1,0 +1,98 @@
+# ================================
+# SECRETS & API KEYS - NEVER COMMIT
+# ================================
+.env
+.env.local
+.env.*.local
+*.key
+*_key.txt
+*api_key*
+secrets.json
+credentials.json
+
+# Anthropic API keys (just in case)
+*sk-ant-*
+
+# OpenAI API keys (just in case)
+*sk-*
+
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# ================================
+# Playwright & Browsers
+# ================================
+.playwright/
+playwright-report/
+test-results/
+screenshots/
+videos/
+
+# Browser binaries
+chromium*/
+firefox*/
+webkit*/
+
+# ================================
+# Output Files
+# ================================
+run_stats.json
+*.log
+*.csv
+
+# Temporary debug outputs
+debug_*.png
+debug_*.html
+temp_*.json
+
+# ================================
+# IDE & Editor
+# ================================
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ================================
+# Build & Distribution
+# ================================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ================================
+# Testing
+# ================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ================================
+# Other
+# ================================
+*.bak
+*.tmp
+temp/
+tmp/
+node_modules/
