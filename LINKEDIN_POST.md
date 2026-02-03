@@ -71,7 +71,3 @@ What problems are you tackling where AI actually makes sense vs. where it's over
 
 ---
 
-**Optional tags:** @Brett Adcock (if you want his attention)
-
-**Optional add:** 
-"Built by a TPM with 12 years in autonomous vehicles. The question isn't 'can we automate this?' It's 'what's the right tool for the job?'"
