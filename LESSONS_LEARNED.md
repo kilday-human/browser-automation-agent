@@ -320,6 +320,6 @@ This agent is designed with that mindset. Even if the "right" answer for this sp
 
 ---
 
-**Repository:** [Link to GitHub]  
-**Contact:** [LinkedIn/Email]  
+**Repository:** https://github.com/kilday-human/browser-automation-agent  
+**Contact:** https://www.linkedin.com/in/christopher-kilday-8024149/
 **Built:** February 2026
