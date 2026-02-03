@@ -390,7 +390,6 @@ See `LESSONS_LEARNED.md` for full architectural analysis and cost/benefit breakd
 
 - **`README.md`** - Architecture overview and quick start
 - **`LESSONS_LEARNED.md`** - Deep dive on when AI agents make sense vs. scripts
-- **`LINKEDIN_POST.md`** - Shareable insight on AI automation paradox
 - **`RUN_LOG.md`** - Detailed run history with debugging insights (8 iterations)
 - **`agent/`** - Production-ready modular codebase
 
