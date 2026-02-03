@@ -307,7 +307,7 @@ Knowing the difference—and designing systems that can use both—is engineerin
 
 ## About the Author
 
-Built by a Technical Program Manager with 12 years in autonomous vehicles (Luminar, Cruise, Uber ATG).
+Built by a Technical Program Manager with 10 years in autonomous vehicles (Luminar, Cruise, Uber ATG).
 
 I've managed fleets of test vehicles, coordinated 600+ OEM demonstrations, and built testing infrastructure for safety-critical robotics.
 
@@ -320,6 +320,6 @@ This agent is designed with that mindset. Even if the "right" answer for this sp
 
 ---
 
-**Repository:** [Link to GitHub]  
-**Contact:** [LinkedIn/Email]  
+**Repository:** https://github.com/kilday-human/browser-automation-agent  
+**Contact:** https://www.linkedin.com/in/christopher-kilday-8024149/
 **Built:** February 2026

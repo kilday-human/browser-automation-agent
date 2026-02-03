@@ -390,7 +390,6 @@ See `LESSONS_LEARNED.md` for full architectural analysis and cost/benefit breakd
 
 - **`README.md`** - Architecture overview and quick start
 - **`LESSONS_LEARNED.md`** - Deep dive on when AI agents make sense vs. scripts
-- **`LINKEDIN_POST.md`** - Shareable insight on AI automation paradox
 - **`RUN_LOG.md`** - Detailed run history with debugging insights (8 iterations)
 - **`agent/`** - Production-ready modular codebase
 
@@ -398,7 +397,7 @@ See `LESSONS_LEARNED.md` for full architectural analysis and cost/benefit breakd
 
 ## Author Context
 
-Built by a Technical Program Manager with 12 years in autonomous vehicles (Luminar, Cruise, Uber ATG). 
+Built by a Technical Program Manager with 10 years in autonomous vehicles (Luminar, Cruise, Uber ATG). 
 
 I've managed fleets of test vehicles, coordinated 600+ OEM demonstrations, and built testing infrastructure for safety-critical robotics.
 
@@ -406,10 +405,8 @@ The difference between a script and a system is operational thinking: What happe
 
 This agent is designed with that mindset—even though the "right" solution for this specific problem might be a 50-line Python script.
 
-**The best code is code you don't write. The best AI is AI you don't deploy.**
-
 ---
 
-**Contact:** [Your LinkedIn]  
+**Contact:** https://www.linkedin.com/in/christopher-kilday-8024149/ 
 **Built:** February 2026  
 **License:** MIT
